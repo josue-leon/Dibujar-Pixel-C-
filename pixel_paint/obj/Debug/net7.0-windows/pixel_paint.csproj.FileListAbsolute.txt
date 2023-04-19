@@ -1,0 +1,17 @@
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\bin\Debug\net7.0-windows\pixel_paint.exe
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\bin\Debug\net7.0-windows\pixel_paint.deps.json
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\bin\Debug\net7.0-windows\pixel_paint.runtimeconfig.json
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\bin\Debug\net7.0-windows\pixel_paint.dll
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\bin\Debug\net7.0-windows\pixel_paint.pdb
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.csproj.AssemblyReference.cache
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.Form1.resources
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.csproj.GenerateResource.cache
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.AssemblyInfoInputs.cache
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.AssemblyInfo.cs
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.dll
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\refint\pixel_paint.dll
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.pdb
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\pixel_paint.genruntimeconfig.cache
+C:\Users\Josue\Downloads\pixel_drawn-main\pixel_drawn-main\pixel_paint\obj\Debug\net7.0-windows\ref\pixel_paint.dll
